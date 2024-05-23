@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "3c764018a86a78d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "76a5e0ff3ae1c676",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0025d1831a987457",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29452edb40970d37",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ba7618c54d6c670",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15ca7828d5459cda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc844f06fb9df6e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10a0289c07763047",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f21fba75058a4e5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "175e4ac60298fc31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0203b0f1bde6301a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5c2fef8f41c5907",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "605ef0b1257ada5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e89ec3c3d427f806",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0025d1831a987457",
+  "lastOpenFiles": [
+    "INF.03/LICENSE",
+    "INF.03/README.md",
+    "INF.03",
+    "Część 1/Rozdział 1 - Wprowadzenie.md",
+    "Welcome.md",
+    "Untitled",
+    "Część 1"
+  ]
+}
